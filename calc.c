@@ -3,7 +3,7 @@
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used:
 // AI (DeepSeek): prompt "how do I parse -d and -o flags in C argv", conversation
-// https://chat.deepseek.com/share/8e2en087xomatrxiim
+// https://chat.deepseek.com/share/ojtzkcduopohbvwg1h
 
 
 #include <stdio.h>
